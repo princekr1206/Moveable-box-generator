@@ -1,0 +1,55 @@
+.main{
+    border-style: groove;
+    border-width: 5px;
+    height: 95vh;
+    width: 90vw; 
+}
+
+.box{
+    background-color: aqua;
+    height: 10vh;
+    width: 10vw; 
+    margin: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.box-container{
+    height:85vh;
+    width:89vw;
+    position: relative;
+    background-color: lightgoldenrodyellow;
+
+}
+.add-buton{
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+    padding: 8px;
+    color: #fff;
+    background-color: #2a46e0;
+    border: none;
+    border-radius: 10px;
+}
+
+.add-check{
+    padding: 5px;
+    margin-top: 20px;
+    margin-right: 5px;
+    color:blueviolet;
+    width: 22px;
+    height: 22px;
+}
+
+.control-container{
+    display:flex;
+    justify-content: center;
+}
+.Enable-Key{
+    margin-top: 13px;
+    margin-left: 5px;
+    font-size: 25px;
+    color: blue;
+}
